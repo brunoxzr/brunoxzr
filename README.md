@@ -13,7 +13,7 @@
 
 ---
 
-# 🟣 About Me
+#  About Me
 
 I’m **Bruno Yudi Kay**, a developer focused on building **real systems for real people**.
 
@@ -29,7 +29,7 @@ My style:
 
 ---
 
-# 🟣 Tech Stack (Purple Minimalist)
+#  Tech Stack 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,js,html,css,tailwind,opencv,postgres,sqlite,nodejs,github&theme=dark" />
@@ -37,7 +37,7 @@ My style:
 
 ---
 
-# 🟣 3D Skill Cards (Portfolio Style)
+# Skill Cards
 
 <div align="center">
 
@@ -58,7 +58,7 @@ My style:
 
 ---
 
-# 🟣 GitHub Overview (Clean Purple)
+#  GitHub Overview
 
 <div align="center">
 
@@ -73,23 +73,7 @@ My style:
 
 ---
 
-# 🟣 Animated Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxzr&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</div>
-
----
-
-# 🟣 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/brunoxzr/brunoxzr/output/snake.svg" />
-</div>
-
----
-
-# 🟣 Socials
+#  Socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-yudi-kay/">
