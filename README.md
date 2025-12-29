@@ -1,150 +1,133 @@
-<!-- ========================================================= -->
-<!--  BRUNO YUDI KAY — SENIOR SOFTWARE ENGINEER PROFILE -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--  BRUNO YUDI KAY — SOFTWARE ENGINEER -->
+<!-- ===================================================== -->
 
-<div align="center">
+<h1 align="center">Bruno Yudi Kay</h1>
 
-<!-- Tailwind CDN -->
-<script src="https://cdn.tailwindcss.com"></script>
+<p align="center">
+  <strong>Software Engineer • AI & Computer Vision Specialist</strong><br/>
+  Engineering production-grade systems with real-world constraints
+</p>
 
-<!-- HERO -->
-<section class="max-w-5xl mx-auto px-6 py-16">
-  <h1 class="text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900">
-    Bruno Yudi Kay
-  </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems_Engineering-black?style=flat-square">
+  <img src="https://img.shields.io/badge/AI-Computer_Vision-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Backend-Architecture-black?style=flat-square">
+</p>
 
-  <p class="mt-6 text-xl md:text-2xl text-slate-700 max-w-3xl">
-    Senior Software Engineer specializing in
-    <span class="font-semibold text-slate-900">AI systems</span>,
-    <span class="font-semibold text-slate-900">computer vision</span> and
-    <span class="font-semibold text-slate-900">high-performance backend architectures</span>.
-  </p>
+---
 
-  <div class="mt-10 flex flex-wrap gap-4">
-    <span class="px-4 py-2 rounded-full bg-slate-900 text-white text-sm font-semibold">
-      Software Engineering
-    </span>
-    <span class="px-4 py-2 rounded-full bg-slate-200 text-slate-900 text-sm font-semibold">
-      Artificial Intelligence
-    </span>
-    <span class="px-4 py-2 rounded-full bg-slate-200 text-slate-900 text-sm font-semibold">
-      Computer Vision
-    </span>
-    <span class="px-4 py-2 rounded-full bg-slate-200 text-slate-900 text-sm font-semibold">
-      Backend Architecture
-    </span>
-  </div>
-</section>
+## Executive Profile
 
-<hr class="max-w-5xl mx-auto border-slate-200"/>
+I am a **software engineer focused on building systems that scale, endure and operate under pressure**.
 
-<!-- ABOUT -->
-<section class="max-w-5xl mx-auto px-6 py-16">
-  <h2 class="text-3xl font-bold text-slate-900">Executive Profile</h2>
+I don’t build demos.  
+I design **systems meant for production**, where correctness, performance and maintainability matter more than trends.
 
-  <p class="mt-6 text-lg text-slate-700 leading-relaxed max-w-4xl">
-    I design and build <strong>production-grade software systems</strong>.
-    My focus is not on demos, trends or visual hype — but on
-    <strong>correctness, scalability and long-term maintainability</strong>.
-  </p>
+My work sits at the intersection of:
+- software architecture  
+- backend engineering  
+- applied artificial intelligence  
+- computer vision systems  
 
-  <p class="mt-4 text-lg text-slate-700 leading-relaxed max-w-4xl">
-    I treat artificial intelligence as an <strong>engineering component</strong>,
-    integrated into robust architectures capable of operating under real-world constraints.
-  </p>
-</section>
+---
 
-<hr class="max-w-5xl mx-auto border-slate-200"/>
+## Engineering Mindset
 
-<!-- PRINCIPLES -->
-<section class="max-w-5xl mx-auto px-6 py-16">
-  <h2 class="text-3xl font-bold text-slate-900">Engineering Principles</h2>
+- Systems > features  
+- Explicit architecture > magic abstractions  
+- AI as an engineering component, not a buzzword  
+- Performance and failure modes considered early  
+- Codebases designed for teams, not heroes  
 
-  <div class="mt-10 grid grid-cols-1 md:grid-cols-2 gap-8">
-    <div class="p-6 rounded-2xl border border-slate-200">
-      <h3 class="text-xl font-semibold text-slate-900">Systems over features</h3>
-      <p class="mt-3 text-slate-700">
-        I design systems that continue working as complexity grows,
-        not features that break under pressure.
-      </p>
-    </div>
+Most developers optimize for something that *works*.  
+I optimize for something that **keeps working**.
 
-    <div class="p-6 rounded-2xl border border-slate-200">
-      <h3 class="text-xl font-semibold text-slate-900">Explicit architecture</h3>
-      <p class="mt-3 text-slate-700">
-        Clear data flow, explicit state, predictable behavior.
-        No hidden magic.
-      </p>
-    </div>
+---
 
-    <div class="p-6 rounded-2xl border border-slate-200">
-      <h3 class="text-xl font-semibold text-slate-900">AI as infrastructure</h3>
-      <p class="mt-3 text-slate-700">
-        Models are only valuable when properly integrated,
-        monitored and maintained in production.
-      </p>
-    </div>
+## Technical Domains
 
-    <div class="p-6 rounded-2xl border border-slate-200">
-      <h3 class="text-xl font-semibold text-slate-900">Longevity mindset</h3>
-      <p class="mt-3 text-slate-700">
-        I optimize for codebases that teams can evolve,
-        not personal heroics.
-      </p>
-    </div>
-  </div>
-</section>
+**Artificial Intelligence & Computer Vision**
+- object & behavior detection
+- pose estimation and motion analysis
+- real-time inference pipelines
+- production model integration
 
-<hr class="max-w-5xl mx-auto border-slate-200"/>
+**Backend & Systems Engineering**
+- API-first design
+- data persistence strategies
+- scalability & reliability concerns
+- automation pipelines
 
-<!-- STACK -->
-<section class="max-w-5xl mx-auto px-6 py-16">
-  <h2 class="text-3xl font-bold text-slate-900">Technology Stack</h2>
+**Full-Stack Delivery**
+- backend-driven UI logic
+- dashboards focused on decisions
+- clean separation of concerns
 
-  <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-10 text-slate-700">
-    <div>
-      <h3 class="font-semibold text-slate-900">Languages</h3>
-      <ul class="mt-3 space-y-1">
-        <li>Python</li>
-        <li>PHP</li>
-        <li>JavaScript</li>
-      </ul>
-    </div>
+---
 
-    <div>
-      <h3 class="font-semibold text-slate-900">Frameworks & Backend</h3>
-      <ul class="mt-3 space-y-1">
-        <li>Flask</li>
-        <li>Laravel</li>
-        <li>Node.js</li>
-      </ul>
-    </div>
+## Technology Stack
 
-    <div>
-      <h3 class="font-semibold text-slate-900">AI & Data</h3>
-      <ul class="mt-3 space-y-1">
-        <li>OpenCV</li>
-        <li>MediaPipe</li>
-        <li>YOLO pipelines</li>
-        <li>PostgreSQL / SQLite</li>
-      </ul>
-    </div>
-  </div>
-</section>
+<table>
+<tr>
+<td valign="top"><strong>Languages</strong></td>
+<td>Python • PHP • JavaScript</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frameworks</strong></td>
+<td>Flask • Laravel • Node.js</td>
+</tr>
+<tr>
+<td valign="top"><strong>AI / CV</strong></td>
+<td>OpenCV • MediaPipe • YOLO pipelines</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data</strong></td>
+<td>PostgreSQL • SQLite</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frontend</strong></td>
+<td>HTML5 • CSS3 • Tailwind (projects)</td>
+</tr>
+<tr>
+<td valign="top"><strong>Tooling</strong></td>
+<td>Git • GitHub • Linux • Windows</td>
+</tr>
+</table>
 
-<hr class="max-w-5xl mx-auto border-slate-200"/>
+---
 
-<!-- FOOTER -->
-<section class="max-w-5xl mx-auto px-6 py-16 text-center">
-  <p class="text-slate-600">
-    I build software meant to operate under real constraints.<br>
-    <strong class="text-slate-900">If it scales, performs and lasts — that’s success.</strong>
-  </p>
+## What Differentiates My Work
 
-  <div class="mt-6 flex justify-center gap-6 text-slate-900 font-semibold">
-    <a href="https://www.linkedin.com/in/bruno-yudi-kay/" class="hover:underline">LinkedIn</a>
-    <a href="https://www.instagram.com/brunoyudikay/" class="hover:underline">Instagram</a>
-  </div>
-</section>
+- I design **systems**, not isolated code  
+- I think in **failure modes**, not happy paths  
+- I understand how AI behaves **outside notebooks**  
+- I ship solutions meant to be **maintained long-term**  
 
-</div>
+Reliability is not an afterthought — it is a design requirement.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" height="150">
+</p>
+
+---
+
+## Professional Presence
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-yudi-kay/">LinkedIn</a> •
+  <a href="https://www.instagram.com/brunoyudikay/">Instagram</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    I build software meant to operate in real environments.<br/>
+    <strong>If it scales, performs and lasts — that’s success.</strong>
+  </sub>
+</p>
