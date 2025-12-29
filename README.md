@@ -1,85 +1,104 @@
-<!-- ================================ -->
-<!--  BRUNO YUDI KAY — PURPLE EDITION -->
-<!-- ================================ -->
+<!-- ===================================================== -->
+<!--  BRUNO YUDI KAY — DEVELOPER & AI ENGINEER PROFILE -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-# **Bruno Yudi Kay**
-### *Full-Stack Developer • AI & Computer Vision Engineer*
+# 🚀 **Bruno Yudi Kay**
+### **Full-Stack Developer • AI & Computer Vision Engineer**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=AC7BFF&size=28&center=true&vCenter=true&width=650&lines=Building+impactful+systems;AI+%7C+Computer+Vision+%7C+GovTech;Minimalist+Purple+Design;Clean+Architecture+%26+Real+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6D8BFF&center=true&vCenter=true&width=800&lines=Engineering+Real+Systems;AI+%26+Computer+Vision;Full-Stack+Development;Performance+%7C+Scalability+%7C+Impact" />
 
 </div>
 
 ---
 
-#  About Me
+## 👨‍💻 About Me
 
-I’m **Bruno Yudi Kay**, a developer focused on building **real systems for real people**.
+I’m **Bruno Yudi Kay**, a **developer and AI engineer** focused on building **robust, scalable and production-ready systems**.
 
-My work spans across:
-- GovTech platforms and municipal digital services  
-- AI + Computer Vision systems (YOLO, MediaPipe, OpenCV)  
-- Flask + Laravel full-stack development  
-- Educational and public sector dashboards  
-- Automation, monitoring and real-time analytics  
+I work across **software engineering and applied artificial intelligence**, turning ideas into **real products**, not just demos.
 
-My style:  
-✨ **Clean** • ✨ **Minimalist Purple** • ✨ **Scalable** • ✨ **Professional Developer Vibe**
+**What defines my work:**
+- Strong engineering mindset  
+- Clean, maintainable and scalable code  
+- Real-time systems and automation  
+- AI applied to real-world problems  
+- Professional architecture and delivery  
 
 ---
 
-#  Tech Stack 
+## 🧠 Areas of Expertise
+
+- **Artificial Intelligence & Computer Vision**
+- **Full-Stack Web Development**
+- **Automation & Data Processing**
+- **Real-Time Monitoring Systems**
+- **Backend Architecture & APIs**
+- **Dashboards & Data Visualization**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,js,html,css,tailwind,opencv,postgres,sqlite,nodejs,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,js,nodejs,html,css,tailwind,opencv,postgres,sqlite,git,github&theme=dark" />
 </div>
 
 ---
 
-# Skill Cards
+## ⚙️ Core Skills Breakdown
 
 <div align="center">
 
-<!-- Card 1 -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=purple&line1=Python,Python,4;Flask,Flask,4;OpenCV,OpenCV,4;MediaPipe,MediaPipe,4" height="180" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=Python,Python,5;Flask,Flask,5;OpenCV,OpenCV,5;MediaPipe,MediaPipe,5" height="170" />
 
 <br/><br/>
 
-<!-- Card 2 -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=purple&line1=PHP,php,4;Laravel,laravel,4;PostgreSQL,postgresql,4;SQLite,sqlite,4" height="180" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=PHP,PHP,5;Laravel,Laravel,5;PostgreSQL,PostgreSQL,5;SQLite,SQLite,4" height="170" />
 
 <br/><br/>
 
-<!-- Card 3 -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=purple&line1=JavaScript,js,4;TailwindCSS,tailwind,4;HTML5,html5,4;CSS3,css3,4" height="180" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=JavaScript,JavaScript,5;Node.js,Node.js,4;TailwindCSS,TailwindCSS,5;HTML5,HTML5,5;CSS3,CSS3,5" height="170" />
 
 </div>
 
 ---
 
-#  GitHub Overview
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=brunoxzr&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=brunoxzr&theme=github-dark&hide_border=true" height="165" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoxzr&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoxzr&theme=github_dark" />
 
 </div>
 
 ---
 
-#  Socials
+## 🔍 What I Build
+
+- AI systems with **computer vision & behavioral analysis**
+- Full-stack platforms with **Flask + Laravel**
+- Secure APIs and backend services
+- Automation pipelines and data processing tools
+- Dashboards with real-time insights
+- Production-oriented applications
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruno-yudi-kay/">
+  <a href="https://www.linkedin.com/in/bruno-yudi-kay/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/>
   </a>
-  <a href="https://www.instagram.com/brunoyudikay/">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/brunoyudikay/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50"/>
   </a>
 </div>
@@ -87,8 +106,8 @@ My style:
 ---
 
 <div align="center">
-  
-### **“Minimalism, Vision, and Impact.”**  
-### — *Bruno Yudi Kay*
+
+### **“Engineering systems that work in the real world.”**  
+— **Bruno Yudi Kay**
 
 </div>
