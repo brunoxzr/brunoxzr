@@ -1,113 +1,150 @@
-<!-- ===================================================== -->
-<!--  BRUNO YUDI KAY — DEVELOPER & AI ENGINEER PROFILE -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--  BRUNO YUDI KAY — SENIOR SOFTWARE ENGINEER PROFILE -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-# 🚀 **Bruno Yudi Kay**
-### **Full-Stack Developer • AI & Computer Vision Engineer**
+<!-- Tailwind CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6D8BFF&center=true&vCenter=true&width=800&lines=Engineering+Real+Systems;AI+%26+Computer+Vision;Full-Stack+Development;Performance+%7C+Scalability+%7C+Impact" />
+<!-- HERO -->
+<section class="max-w-5xl mx-auto px-6 py-16">
+  <h1 class="text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900">
+    Bruno Yudi Kay
+  </h1>
 
-</div>
+  <p class="mt-6 text-xl md:text-2xl text-slate-700 max-w-3xl">
+    Senior Software Engineer specializing in
+    <span class="font-semibold text-slate-900">AI systems</span>,
+    <span class="font-semibold text-slate-900">computer vision</span> and
+    <span class="font-semibold text-slate-900">high-performance backend architectures</span>.
+  </p>
 
----
+  <div class="mt-10 flex flex-wrap gap-4">
+    <span class="px-4 py-2 rounded-full bg-slate-900 text-white text-sm font-semibold">
+      Software Engineering
+    </span>
+    <span class="px-4 py-2 rounded-full bg-slate-200 text-slate-900 text-sm font-semibold">
+      Artificial Intelligence
+    </span>
+    <span class="px-4 py-2 rounded-full bg-slate-200 text-slate-900 text-sm font-semibold">
+      Computer Vision
+    </span>
+    <span class="px-4 py-2 rounded-full bg-slate-200 text-slate-900 text-sm font-semibold">
+      Backend Architecture
+    </span>
+  </div>
+</section>
 
-## 👨‍💻 About Me
+<hr class="max-w-5xl mx-auto border-slate-200"/>
 
-I’m **Bruno Yudi Kay**, a **developer and AI engineer** focused on building **robust, scalable and production-ready systems**.
+<!-- ABOUT -->
+<section class="max-w-5xl mx-auto px-6 py-16">
+  <h2 class="text-3xl font-bold text-slate-900">Executive Profile</h2>
 
-I work across **software engineering and applied artificial intelligence**, turning ideas into **real products**, not just demos.
+  <p class="mt-6 text-lg text-slate-700 leading-relaxed max-w-4xl">
+    I design and build <strong>production-grade software systems</strong>.
+    My focus is not on demos, trends or visual hype — but on
+    <strong>correctness, scalability and long-term maintainability</strong>.
+  </p>
 
-**What defines my work:**
-- Strong engineering mindset  
-- Clean, maintainable and scalable code  
-- Real-time systems and automation  
-- AI applied to real-world problems  
-- Professional architecture and delivery  
+  <p class="mt-4 text-lg text-slate-700 leading-relaxed max-w-4xl">
+    I treat artificial intelligence as an <strong>engineering component</strong>,
+    integrated into robust architectures capable of operating under real-world constraints.
+  </p>
+</section>
 
----
+<hr class="max-w-5xl mx-auto border-slate-200"/>
 
-## 🧠 Areas of Expertise
+<!-- PRINCIPLES -->
+<section class="max-w-5xl mx-auto px-6 py-16">
+  <h2 class="text-3xl font-bold text-slate-900">Engineering Principles</h2>
 
-- **Artificial Intelligence & Computer Vision**
-- **Full-Stack Web Development**
-- **Automation & Data Processing**
-- **Real-Time Monitoring Systems**
-- **Backend Architecture & APIs**
-- **Dashboards & Data Visualization**
+  <div class="mt-10 grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div class="p-6 rounded-2xl border border-slate-200">
+      <h3 class="text-xl font-semibold text-slate-900">Systems over features</h3>
+      <p class="mt-3 text-slate-700">
+        I design systems that continue working as complexity grows,
+        not features that break under pressure.
+      </p>
+    </div>
 
----
+    <div class="p-6 rounded-2xl border border-slate-200">
+      <h3 class="text-xl font-semibold text-slate-900">Explicit architecture</h3>
+      <p class="mt-3 text-slate-700">
+        Clear data flow, explicit state, predictable behavior.
+        No hidden magic.
+      </p>
+    </div>
 
-## 🛠️ Tech Stack
+    <div class="p-6 rounded-2xl border border-slate-200">
+      <h3 class="text-xl font-semibold text-slate-900">AI as infrastructure</h3>
+      <p class="mt-3 text-slate-700">
+        Models are only valuable when properly integrated,
+        monitored and maintained in production.
+      </p>
+    </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,js,nodejs,html,css,tailwind,opencv,postgres,sqlite,git,github&theme=dark" />
-</div>
+    <div class="p-6 rounded-2xl border border-slate-200">
+      <h3 class="text-xl font-semibold text-slate-900">Longevity mindset</h3>
+      <p class="mt-3 text-slate-700">
+        I optimize for codebases that teams can evolve,
+        not personal heroics.
+      </p>
+    </div>
+  </div>
+</section>
 
----
+<hr class="max-w-5xl mx-auto border-slate-200"/>
 
-## ⚙️ Core Skills Breakdown
+<!-- STACK -->
+<section class="max-w-5xl mx-auto px-6 py-16">
+  <h2 class="text-3xl font-bold text-slate-900">Technology Stack</h2>
 
-<div align="center">
+  <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-10 text-slate-700">
+    <div>
+      <h3 class="font-semibold text-slate-900">Languages</h3>
+      <ul class="mt-3 space-y-1">
+        <li>Python</li>
+        <li>PHP</li>
+        <li>JavaScript</li>
+      </ul>
+    </div>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=Python,Python,5;Flask,Flask,5;OpenCV,OpenCV,5;MediaPipe,MediaPipe,5" height="170" />
+    <div>
+      <h3 class="font-semibold text-slate-900">Frameworks & Backend</h3>
+      <ul class="mt-3 space-y-1">
+        <li>Flask</li>
+        <li>Laravel</li>
+        <li>Node.js</li>
+      </ul>
+    </div>
 
-<br/><br/>
+    <div>
+      <h3 class="font-semibold text-slate-900">AI & Data</h3>
+      <ul class="mt-3 space-y-1">
+        <li>OpenCV</li>
+        <li>MediaPipe</li>
+        <li>YOLO pipelines</li>
+        <li>PostgreSQL / SQLite</li>
+      </ul>
+    </div>
+  </div>
+</section>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=PHP,PHP,5;Laravel,Laravel,5;PostgreSQL,PostgreSQL,5;SQLite,SQLite,4" height="170" />
+<hr class="max-w-5xl mx-auto border-slate-200"/>
 
-<br/><br/>
+<!-- FOOTER -->
+<section class="max-w-5xl mx-auto px-6 py-16 text-center">
+  <p class="text-slate-600">
+    I build software meant to operate under real constraints.<br>
+    <strong class="text-slate-900">If it scales, performs and lasts — that’s success.</strong>
+  </p>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=JavaScript,JavaScript,5;Node.js,Node.js,4;TailwindCSS,TailwindCSS,5;HTML5,HTML5,5;CSS3,CSS3,5" height="170" />
-
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=brunoxzr&theme=github-dark&hide_border=true" height="165" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoxzr&theme=github_dark" />
-
-</div>
-
----
-
-## 🔍 What I Build
-
-- AI systems with **computer vision & behavioral analysis**
-- Full-stack platforms with **Flask + Laravel**
-- Secure APIs and backend services
-- Automation pipelines and data processing tools
-- Dashboards with real-time insights
-- Production-oriented applications
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-yudi-kay/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunoyudikay/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-
-### **“Engineering systems that work in the real world.”**  
-— **Bruno Yudi Kay**
+  <div class="mt-6 flex justify-center gap-6 text-slate-900 font-semibold">
+    <a href="https://www.linkedin.com/in/bruno-yudi-kay/" class="hover:underline">LinkedIn</a>
+    <a href="https://www.instagram.com/brunoyudikay/" class="hover:underline">Instagram</a>
+  </div>
+</section>
 
 </div>
