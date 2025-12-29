@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Software Engineer • AI & Computer Vision Specialist</strong><br/>
-  Engineering production-grade systems with real-world constraints
+  Building production-grade systems with real-world constraints
 </p>
 
 <p align="center">
@@ -17,98 +17,86 @@
 
 ---
 
-## Executive Profile
+## 👨‍💻 Executive Profile
 
 I am a **software engineer focused on building systems that scale, endure and operate under pressure**.
 
-I don’t build demos.  
-I design **systems meant for production**, where correctness, performance and maintainability matter more than trends.
-
-My work sits at the intersection of:
-- software architecture  
-- backend engineering  
-- applied artificial intelligence  
-- computer vision systems  
+My work combines **software architecture**, **backend engineering** and **applied artificial intelligence**, with a strong emphasis on **real-world deployment**, not demos or experiments.
 
 ---
 
-## Engineering Mindset
+## 🧠 Engineering Mindset
 
-- Systems > features  
-- Explicit architecture > magic abstractions  
-- AI as an engineering component, not a buzzword  
+- Systems over isolated features  
+- Explicit architecture over magic abstractions  
+- AI treated as an engineering component  
 - Performance and failure modes considered early  
-- Codebases designed for teams, not heroes  
+- Codebases designed for long-term maintenance  
 
-Most developers optimize for something that *works*.  
-I optimize for something that **keeps working**.
-
----
-
-## Technical Domains
-
-**Artificial Intelligence & Computer Vision**
-- object & behavior detection
-- pose estimation and motion analysis
-- real-time inference pipelines
-- production model integration
-
-**Backend & Systems Engineering**
-- API-first design
-- data persistence strategies
-- scalability & reliability concerns
-- automation pipelines
-
-**Full-Stack Delivery**
-- backend-driven UI logic
-- dashboards focused on decisions
-- clean separation of concerns
+I don’t optimize for something that *works once*.  
+I optimize for systems that **keep working**.
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-<table>
-<tr>
-<td valign="top"><strong>Languages</strong></td>
-<td>Python • PHP • JavaScript</td>
-</tr>
-<tr>
-<td valign="top"><strong>Frameworks</strong></td>
-<td>Flask • Laravel • Node.js</td>
-</tr>
-<tr>
-<td valign="top"><strong>AI / CV</strong></td>
-<td>OpenCV • MediaPipe • YOLO pipelines</td>
-</tr>
-<tr>
-<td valign="top"><strong>Data</strong></td>
-<td>PostgreSQL • SQLite</td>
-</tr>
-<tr>
-<td valign="top"><strong>Frontend</strong></td>
-<td>HTML5 • CSS3 • Tailwind (projects)</td>
-</tr>
-<tr>
-<td valign="top"><strong>Tooling</strong></td>
-<td>Git • GitHub • Linux • Windows</td>
-</tr>
-</table>
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=light" height="40"/>
+</p>
+
+### Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=laravel&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40"/>
+</p>
+
+### Artificial Intelligence & Computer Vision
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="40"/>
+  <img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MediaPipe-black?style=flat-square"/>
+</p>
+
+### Data & Persistence
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=light" height="40"/>
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40"/>
+</p>
+
+### Tooling & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=windows&theme=light" height="40"/>
+</p>
 
 ---
 
-## What Differentiates My Work
+## 🧩 What Differentiates My Work
 
-- I design **systems**, not isolated code  
+- I design **systems**, not just code  
 - I think in **failure modes**, not happy paths  
 - I understand how AI behaves **outside notebooks**  
-- I ship solutions meant to be **maintained long-term**  
+- I ship solutions meant to be **maintained by teams**  
 
-Reliability is not an afterthought — it is a design requirement.
+Reliability is a design requirement — not an afterthought.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" height="150">
@@ -116,7 +104,7 @@ Reliability is not an afterthought — it is a design requirement.
 
 ---
 
-## Professional Presence
+## 🌐 Professional Presence
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-yudi-kay/">LinkedIn</a> •
