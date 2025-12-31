@@ -39,7 +39,7 @@ integrated, observable and engineered to operate under real constraints.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,js,flask,laravel,nodejs,opencv,postgres,sqlite,html,css,tailwind,git,github,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,js,flask,laravel,nodejs,opencv,postgres,sqlite,html,css,tailwind,git,github,linux&theme=dark" />
 
 </div>
 
