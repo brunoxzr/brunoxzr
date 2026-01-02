@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Production-Grade+Software+Engineering;Scalable+Backends+%7C+AI+Systems;Performance+%7C+Reliability+%7C+Design" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Production-Grade+Software+Engineering;Scalable+Backends+%7C+AI+Systems;Performance+%7C+Reliability+%7C+Design" 
+  />
 </p>
 
 ---
@@ -50,9 +52,7 @@ not as a demo feature — observable, versioned and constrained by real-world re
 ## 🧬 Core Technology Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,js,flask,laravel,nodejs,opencv,postgres,sqlite,html,css,tailwind,git,github,linux&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,php,js,flask,laravel,nodejs,opencv,postgres,sqlite,html,css,tailwind,git,github,linux&theme=dark" />
 </div>
 
 ---
@@ -60,15 +60,24 @@ not as a demo feature — observable, versioned and constrained by real-world re
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=8b5cf6&text_color=e5e7eb&icon_color=8b5cf6" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=8b5cf6&text_color=e5e7eb&icon_color=8b5cf6&cache_seconds=21600"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxzr&layout=compact&hide_border=true&bg_color=0b0f19&title_color=8b5cf6&text_color=e5e7eb" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxzr&layout=compact&hide_border=true&bg_color=0b0f19&title_color=8b5cf6&text_color=e5e7eb&cache_seconds=21600"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=brunoxzr&theme=tokyonight&hide_border=true&background=0b0f19&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" height="160"/>
+  <img
+    src="https://streak-stats.demolab.com?user=brunoxzr&theme=tokyonight&hide_border=true&background=0b0f19&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6"
+    height="160"
+  />
 </p>
 
 ---
