@@ -57,31 +57,6 @@ not as a demo feature — observable, versioned and constrained by real-world re
 
 ---
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=brunoxzr&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=8b5cf6&text_color=e5e7eb&icon_color=8b5cf6&cache_seconds=21600"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxzr&layout=compact&hide_border=true&bg_color=0b0f19&title_color=8b5cf6&text_color=e5e7eb&cache_seconds=21600"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=brunoxzr&theme=tokyonight&hide_border=true&background=0b0f19&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6"
-    height="160"
-  />
-</p>
-
----
-
 ## ⚙️ Development Philosophy
 
 <p align="center">
