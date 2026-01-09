@@ -125,7 +125,7 @@ not as a demo feature — observable, versioned and constrained by real-world re
 ## 🌍 Professional Presence
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruno-yudi-kay/">
+  <a href="https://www.linkedin.com/in/bruno-yudi-kay-383201317/">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/brunoyudikay/">
