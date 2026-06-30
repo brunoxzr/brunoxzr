@@ -1,23 +1,26 @@
 <!-- ========================================================= -->
+
 <!--  BRUNO YUDI KAY — SOFTWARE ENGINEER -->
+
 <!-- ========================================================= -->
 
 <h1 align="center">Bruno Yudi Kay</h1>
 
 <p align="center">
-  <strong>Software Engineer • Systems, AI & Architecture</strong><br/>
-  <span style="color:#8b5cf6;">Engineering reliable systems that scale in the real world</span>
+  <strong>Software Engineer • Full Stack Development • AI Systems</strong><br/>
+  <span>Building scalable, maintainable and real-world software solutions</span>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEMS-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/AI-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ARCHITECTURE-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Architecture-black?style=for-the-badge">
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Production-Grade+Software+Engineering;Scalable+Backends+%7C+AI+Systems;Performance+%7C+Reliability+%7C+Design" 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineering;Laravel+%7C+React+%7C+Vue+%7C+AI+Systems;Scalable+Backends+%7C+Clean+Architecture;Performance+%7C+Reliability+%7C+Product+Design" 
   />
 </p>
 
@@ -26,103 +29,94 @@
 ## Executive Summary
 
 <p align="center">
-I design and build <strong>production-grade software systems</strong><br/>
-with a strong focus on <strong>architecture, performance and long-term maintainability</strong>.
+I design and build <strong>modern software systems</strong> focused on<br/>
+<strong>scalability, maintainability, performance and real-world usability</strong>.
 </p>
 
 <p align="center">
-Artificial Intelligence is treated as <strong>engineering infrastructure</strong>,<br/>
-not as a demo feature — observable, versioned and constrained by real-world requirements.
+My work combines <strong>backend engineering</strong>, <strong>frontend product interfaces</strong><br/>
+and <strong>AI-powered applications</strong> with clean architecture and practical execution.
+</p>
+
+<p align="center">
+Artificial Intelligence is treated as part of the system architecture:<br/>
+<strong>observable, testable, versioned and aligned with real business problems</strong>.
 </p>
 
 ---
 
-<h2 align="center">
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
-       stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-       style="vertical-align: middle; margin-right:6px;">
-    <path d="M9 18h6"/>
-    <path d="M10 22h4"/>
-    <path d="M12 2a7 7 0 0 0-4 12c.7.7 1 1.3 1 2h6c0-.7.3-1.3 1-2a7 7 0 0 0-4-12z"/>
-  </svg>
-  Engineering Focus
-</h2>
-
+<h2 align="center">Engineering Focus</h2>
 
 <p align="center">
-<p align="center">
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-       stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="12" r="4"/>
-  </svg>
   Backend systems & APIs<br/>
-
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-       stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="12" r="4"/>
-  </svg>
-  Scalable architectures
-</p>
-
-• Data-driven applications<br/>
-• AI & Computer Vision pipelines<br/>
-• Clean codebases designed for growth
+  Full stack web applications<br/>
+  Admin dashboards and SaaS platforms<br/>
+  AI and Computer Vision pipelines<br/>
+  Scalable database-driven applications<br/>
+  Clean codebases designed for long-term growth
 </p>
 
 ---
 
-## 🧬 Core Technology Stack
+## Core Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,flask,laravel,nodejs,opencv,postgres,sqlite,html,css,tailwind,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nodejs,python,flask,opencv,postgres,sqlite,mysql,html,css,tailwind,git,github,linux,vite&theme=dark" />
 </div>
 
 ---
 
-<h2 align="center">
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
-       stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-       style="vertical-align: middle; margin-right:6px;">
-    <circle cx="12" cy="12" r="3"/>
-    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06
-             a2 2 0 0 1-2.83 2.83l-.06-.06
-             a1.65 1.65 0 0 0-1.82-.33
-             1.65 1.65 0 0 0-1 1.51V21
-             a2 2 0 0 1-4 0v-.09
-             a1.65 1.65 0 0 0-1-1.51
-             1.65 1.65 0 0 0-1.82.33l-.06.06
-             a2 2 0 0 1-2.83-2.83l.06-.06
-             a1.65 1.65 0 0 0 .33-1.82
-             1.65 1.65 0 0 0-1.51-1H3
-             a2 2 0 0 1 0-4h.09
-             a1.65 1.65 0 0 0 1.51-1
-             1.65 1.65 0 0 0-.33-1.82l-.06-.06
-             a2 2 0 1 1 2.83-2.83l.06.06
-             a1.65 1.65 0 0 0 1.82.33H9
-             a1.65 1.65 0 0 0 1-1.51V3
-             a2 2 0 0 1 4 0v.09
-             a1.65 1.65 0 0 0 1 1.51
-             1.65 1.65 0 0 0 1.82-.33l.06-.06
-             a2 2 0 1 1 2.83 2.83l-.06.06
-             a1.65 1.65 0 0 0-.33 1.82V9
-             a1.65 1.65 0 0 0 1.51 1H21
-             a2 2 0 0 1 0 4h-.09
-             a1.65 1.65 0 0 0-1.51 1z"/>
-  </svg>
-  Development Philosophy
-</h2>
+## Main Technologies
 
 <p align="center">
-• Systems over features<br/>
-• Explicit architecture over magic abstractions<br/>
-• Code designed for teams, not just execution<br/>
-• Observability and failure modes considered early<br/>
-• Performance as a design constraint, not an afterthought
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+  <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
 </p>
 
 ---
 
-## 🌍 Professional Presence
+<h2 align="center">Development Philosophy</h2>
+
+<p align="center">
+  Systems over isolated features<br/>
+  Explicit architecture over hidden complexity<br/>
+  Code designed for teams, not only for execution<br/>
+  Strong separation between business logic and interface<br/>
+  Performance, security and maintainability from the beginning<br/>
+  Interfaces that are simple, responsive and useful in production
+</p>
+
+---
+
+## Areas of Interest
+
+<p align="center">
+  Software Architecture<br/>
+  Laravel Ecosystems<br/>
+  React and Vue Interfaces<br/>
+  SaaS Platforms<br/>
+  Artificial Intelligence Applications<br/>
+  Computer Vision<br/>
+  Automation and Internal Tools<br/>
+  Product-focused Engineering
+</p>
+
+---
+
+## Professional Presence
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-yudi-kay-383201317/">
@@ -137,8 +131,8 @@ not as a demo feature — observable, versioned and constrained by real-world re
 
 <p align="center">
   <sub>
-    <strong style="color:#8b5cf6;">
-      Build systems that last. Everything else is temporary.
+    <strong>
+      Build systems that are useful, reliable and ready to evolve.
     </strong>
   </sub>
 </p>
