@@ -105,15 +105,15 @@
 
 <p align="center">
   <!-- General Stats -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=brunoyudikay&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=brunoxzr&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D" />
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brunoyudikay&layout=compact&theme=dark&border_radius=10&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brunoxzr&layout=compact&theme=dark&border_radius=10&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=false" />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoyudikay&theme=dark&background=0D1117&border=30363D&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoxzr&theme=dark&background=0D1117&border=30363D&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6" />
 </p>
 
 ---
