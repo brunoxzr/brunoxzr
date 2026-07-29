@@ -105,10 +105,10 @@
 
 <p align="center">
   <!-- General Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoyudikay&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=brunoyudikay&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D" />
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoyudikay&layout=compact&theme=dark&border_radius=10&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brunoyudikay&layout=compact&theme=dark&border_radius=10&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=false" />
 </p>
 
 <p align="center">
@@ -163,9 +163,6 @@
   </a>
   <a href="https://www.instagram.com/brunoyudikay/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
